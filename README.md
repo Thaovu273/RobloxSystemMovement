@@ -11,5 +11,22 @@ A demo of a Roblox Movement System that forces player to move freely in only two
   
 - In order for player to overcome obstacles, they need to change between the three imaginary layers instead of just easily navigating though different dimensions like one would in normal Roblox game 
 ## **File Structure:**
+- Animate.lua, Camerascript.lua, CanSwitch.lua, Control.Script, DetectJump.lua, LaneSwitch.lua/ script related to the Movement System
+  
+- CheckpointHandler.lua, LeaderboardSetup.lua, RespawnHandler.lua/ script related to the obby
+## **Future Improvement:**
+- Adding more level into the existed Obby
+
+- Corporate the System into more Roblox games
+  
+- Develope the Movement to limit even more dimensions for the player
+## **Technologies used:**
+- Roblox Studio
+  
+- Roblox Lua Scripting
+
+
+
+
 
 
